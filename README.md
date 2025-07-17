@@ -2,3 +2,4 @@
 
 ## Index
 1. [GIT Setup Instructions](setup.md)
+2. [GIT Stash Guide](stash_guide.md)
