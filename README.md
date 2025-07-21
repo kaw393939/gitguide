@@ -7,3 +7,5 @@
 4. [Managing Files Guide](files.md)
 5. [Tips and Tricks](tips.md)
 6. [KoleenTolentino Commit](KTcommit.md)
+7. 
+8. [Jenna Keith](commitfile.md)
