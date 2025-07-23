@@ -6,4 +6,4 @@
 3. [Merge Rebase](merge_rebase.md)
 4. [Managing Files Guide](files.md)
 5. [Tips and Tricks](tips.md)
-6. [Nizar Aallalou Commit](NJcommit.md)
+6. [Nizar Aallalou Commit](NAcommit.md)
